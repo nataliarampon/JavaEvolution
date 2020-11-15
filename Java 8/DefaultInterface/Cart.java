@@ -17,4 +17,9 @@ public interface Cart {
     //     return DELIVERY_ORDER;
     // };
 
+    // private int getOrderType() {
+    //     return DELIVERY_ORDER;
+    // };
+
+
 }
